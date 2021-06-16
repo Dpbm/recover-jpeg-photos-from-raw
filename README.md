@@ -9,7 +9,7 @@ This project is based on CS50 recover problem, but this time made in Python
     
     cd recover-jpeg-photos-from-raw
 
-    python example.raw 
+    python main.py example.raw 
         or
-    python3 example.raw 
+    python3 main.py example.raw 
 ```
